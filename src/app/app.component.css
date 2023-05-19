@@ -1,0 +1,20 @@
+.harshil
+{
+    color: green;
+    animation: udd 1s linear 0s infinite alternate;
+}
+.Count
+{
+    padding: 0 20px;
+}
+@keyframes udd 
+{
+    from
+    {
+        transform: translateY('-10px');
+    }
+    to
+    {
+        transform: translateY('0px');
+    }
+}
